@@ -15,10 +15,9 @@ To get started, clone the repo and cd into the directory:
 git clone git@github.com:anthonyjshaw/react-template.git <your-react-project-name>
 
 cd <your-react-project-name>
-
 ```
 
-Install any dependencies by running the ```yarn install ``` command.
+Install any dependencies by running the ```yarn install``` command.
 
 Start the development server by running the command:
 
